@@ -1,4 +1,4 @@
-## Welcome to the Alexander J Satin informational page
+<center> ## Welcome to the Alexander J Satin informational page
 
 Anything you many want to know about Alex Satin may be accessable here
 
@@ -7,6 +7,7 @@ Anything you many want to know about Alex Satin may be accessable here
  Pages to Portfolios and clubs Alex runs will be accessable below
 <img src="https://afsemodelcongresscom.files.wordpress.com/2017/04/the-final-afse-e1492479980121.jpg?w=512&h=512" style="width:500px;height:400px;">
 ### Model Congress
+</center>
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
