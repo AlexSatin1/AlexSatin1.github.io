@@ -1,28 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to the Alexander J Satin informational page
 
-You can use the [editor on GitHub](https://github.com/AlexSatin1/AlexSatin1.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Anything you many want to know about Alex Satin may be accessable here
 
 
-### Markdown
+### Education 
+ Pages to Portfolios and clubs Alex runs will be accessable below
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+[Image](https://afsemodelcongresscom.files.wordpress.com/2017/04/the-final-afse-e1492479980121.jpg?w=512&h=512)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
